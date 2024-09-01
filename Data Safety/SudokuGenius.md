@@ -15,11 +15,13 @@ By submitting an account deletion request, the following types of data will be p
 - Login credentials
 - Profile data
 - Any stored preferences or customizations
+- Android ID
 
 We understand the importance of data privacy, and we assure you that we do not retain any user data after the account deletion process is completed, except as outlined below:
 
 - Data required for legal or regulatory compliance may be retained for the prescribed retention period as mandated by applicable laws.
 - Aggregated and anonymized data that does not identify individual users may be retained for analytical purposes.
+- The Android ID is used to uniquely identify users to the user device on which the application was previously installed.
 
 ## **Confirmation of Account Deletion**
 
