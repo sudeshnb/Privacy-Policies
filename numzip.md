@@ -1,40 +1,46 @@
-## Privacy Policy
+# **NumZap Privacy Policy**
 
-Effective Date: 2024-09-18
+**Effective Date:** 2024-09-19
 
-At NumZip, we value your privacy and are committed to protecting it. This Privacy Policy outlines how we handle data when you use our app. We do not collect, store, or share any personal information about our users, including children under 13.
+**Developer Name:** ONYXSIO
 
-### 1. Information We Collect
+At **NumZap**, we are committed to protecting your privacy and providing a safe experience for all users. This privacy policy outlines how we handle data and user privacy when you use our app, including compliance with regulations for children under 13.
 
-We do not collect any personal data or identifiable information from users. This includes but is not limited to:
+### **1. Information We Collect**
 
-- Personal information such as names, email addresses, or contact details.
-- Location data.
-- Gameplay data or analytics.
-- Device information such as IP addresses, device types, or operating systems.
+**We do not collect any personal or sensitive user data.**  
+- No personally identifiable information (PII) is collected, including names, addresses, or contact details.
+- No device or location data is collected.
+- No gameplay data, usage statistics, or analytics are collected.
 
-### 2. Children's Privacy
+### **2. Data Usage**
 
-Our app is designed to be safe and enjoyable for children, including those under the age of 13. We do not collect or request any personal information from children. In compliance with the Children’s Online Privacy Protection Act (COPPA), we ensure that no data is collected from children or any other users.
+Since **NumZap** does not collect any user data, there is no data used, shared, or processed in any way. We prioritize user privacy and do not track or store any information about your usage.
 
-### 3. Data Sharing and Disclosure
+### **3. Data Sharing and Disclosure**
 
-Since we do not collect any user data, there is no data to share or disclose to third parties.
+We do not share any user data with third parties as **NumZap** does not collect, access, or store any personal or sensitive information.
 
-### 4. Security
+### **4. Data Security**
 
-Although we do not collect personal information, we take precautions to ensure that our app is secure and that our users can enjoy the game safely. We do not transmit any personal data over the internet, ensuring privacy protection at all levels.
+Although we do not collect or store user data, we take security seriously and use best practices to ensure that the app is free of vulnerabilities. All data related to gameplay is stored locally on the user's device, and no information is transmitted to external servers.
 
-### 5. Changes to the Privacy Policy
+### **5. Data Retention and Deletion**
 
-We may update this Privacy Policy if necessary to reflect changes in regulations or our practices. However, we will always notify users if there are any significant changes to this policy. Please review this page regularly for updates.
+As we do not collect any user data, there is no data to retain or delete. All gameplay progress and settings are stored locally on the device and are deleted when the app is uninstalled.
 
-### 6. Contact Us
+### **6. Children’s Privacy**
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+**NumZap** is compliant with the Children’s Online Privacy Protection Act (COPPA) and other regulations designed to protect children’s privacy. We do not collect any personal information from users, including children under 13.
 
-- Onyxsio co.
-- onyxsioit@gmail.com
-- 134/2 Thalapitiya, Uduwela, Kandy,
-Sri Lanka.
+### **7. Changes to the Privacy Policy**
 
+We may update this privacy policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any updates will be reflected in this document, and users will be notified of significant changes through our app.
+
+### **8. Contact Information**
+
+If you have any questions about this privacy policy or your child’s privacy, please contact us at:
+
+Onyxsio  
+onyxsioit@gmail.com  
+[Your Contact Address]  
