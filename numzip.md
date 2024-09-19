@@ -39,8 +39,5 @@ We may update this privacy policy from time to time to reflect changes in our pr
 
 ### **8. Contact Information**
 
-If you have any questions about this privacy policy or your child’s privacy, please contact us at:
+If you have any questions about this privacy policy or your child’s privacy, please contact us at: onyxsioit@gmail.com  
 
-Onyxsio  
-onyxsioit@gmail.com  
-[Your Contact Address]  
